@@ -1,4 +1,4 @@
-# People Sorter
+# Person Sorter
 Processes a number of different input files that represent people and coverts them into ordered collections of people.
 
 # Test
